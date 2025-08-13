@@ -3,10 +3,7 @@
 
 **Instructor**: [Fernando Pérez](https://statistics.berkeley.edu/people/fernando-perez), Department of Statistics, UC Berkeley
 
-**Teaching Assistants**: 
-
-+ [Jimmy Butler](https://statistics.berkeley.edu/people/james-butler)
-+ [Sequoia Andrade](https://statistics.berkeley.edu/people/sequoia-rose-andrade)
+**Teaching Assistants**: [Jimmy Butler](https://statistics.berkeley.edu/people/james-butler), [Sequoia Andrade](https://statistics.berkeley.edu/people/sequoia-rose-andrade)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/site/HEAD)
 
