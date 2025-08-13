@@ -1,4 +1,4 @@
-# Collaborative and Reproducible Data Science - Spring 2023
+# Collaborative and Reproducible Data Science - Fall 2025
 ## Statistics 159/259 Course Summary
 
 **Instructor**: [Fernando Pérez](https://statistics.berkeley.edu/people/fernando-perez), Department of Statistics, UC Berkeley
