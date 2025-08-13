@@ -5,10 +5,10 @@ project:
     - name: Fernando Pérez
     - name: Facundo Sapienza
   copyright: '2023'
-  github: UCB-stat-159-s23/site
+  github: UCB-stat-159-f25/site
   thebe:
     binder:
-      repo: UCB-stat-159-s23/site
+      repo: UCB-stat-159-f25/site
       provider: github
       url: https://mybinder.org
       ref: main
