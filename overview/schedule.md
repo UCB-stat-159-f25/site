@@ -17,7 +17,7 @@ Note that all lecture videos are posted on the [bCourses "Lectures" playlist for
 
 ## Live links for labs on the Berkeley DataHub
 
-All the labs for the course can be found in the navitation bar on the left. Useful information about how to setup the labs in your JupyterHub sesssion can be found in the [introduction page](https://ucb-stat-159-f25.github.io/site/lab/intro/intro.ipynb).
+All the labs for the course can be found in the navitation bar on the left. Useful information about how to setup the labs in your JupyterHub sesssion can be found in the [introduction page](https://ucb-stat-159-f25.github.io/site/lab/intro/intro.html).
 
 * Jan 20. Lab 00 - Intro Python and setup.
 * Jan 27. Lab 01 - Git and the Shell
