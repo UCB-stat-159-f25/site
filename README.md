@@ -4,7 +4,7 @@
 
 This repository contains all source materials (lecture notes, homework
 assignments, etc.) for the class, and is available as a static website
-[here](https://ucb-stat-159-s23.github.io/site), rendered
+[here](https://ucb-stat-159-f25.github.io/site), rendered
 automatically with JupyterBook on any commit to the `main` branch.
 
 Instructor: [Fernando Perez](https://statistics.berkeley.edu/people/fernando-perez)
