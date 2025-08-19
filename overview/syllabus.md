@@ -63,7 +63,7 @@ In case of medical exception, submit on Ed a private note to the instructors wit
  - We will accept late homework assignments until 24hrs after the deadline of the homework. However, in those cases a 25% penalty will be applied to the final score. 
  - For group homework projects, you will include a statement in your repository acknowledging the contribution of each team member. Unless there is a major, unfair imbalance in the amount of work done by each team member, the same grade will be assigned to all team members.
  - _Submitting assignments:_ Submit written assignments by making a pull request
-to your private repository within the Berkeley [GitHub organization for the class](https://github.berkeley.edu/stat-159-f25), using the [GitHub Classroom](https://classroom.github.com/classrooms/224172006-ucb-stat-159-f25-classroom) (you will practice all this, don't worry).
+to your private repository within the Berkeley [GitHub organization for the class](https://github.berkeley.edu/stat-159-f25), using the GitHub Classroom (**insert link to GitHub classroom**) (you will practice all this, don't worry).
 
 
 #### Reading assignments 
