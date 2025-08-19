@@ -2,7 +2,6 @@
 
 **Statistics 159/259: Reproducible and Collaborative Statistical Data Science**
 
-
 ## Textbook
 
 While not strictly a textbook for this course, we will rely heavily on the excellent, openly licensed: [Research software engineering in Python](https://third-bit.com/py-rse/). More resources are listed in the [course references page](./references.md).
@@ -31,14 +30,17 @@ For each assigned reading, you will submit a brief, 2 paragraph report by Wednes
 ### Office hours
 + Perez: Wednesday, 10-11AM, 419 Evans Hall. I will normally also keep an open [Zoom session](https://berkeley.zoom.us/j/91957788039?pwd=WE5UMGdUWGp0bFVUUXFFSS9DblhEUT09Meeting) for those needing to join remotely for Covid or other reasons.
 
-### Graduate Student Instructor
-+ [Facu Sapienza](mailto:fsapienza@berkeley.edu)
-+ Labs: Friday 9AM-11AM & 12AM-2PM (340 Evans Hall).  
-+ Office hours: Tuesdays 1PM-2PM & Thursdays 2:30PM-3:30PM (428 Evans Hall).
+### Graduate Student Instructors
++ [Jimmy Butler](mailto:butlerj@berkeley.edu)
+    - Labs: Friday 9AM-11AM & 1PM-3PM (340 Evans Hall).
+    - Office hours: Wednesdays 1PM-2PM & Thursdays 10AM-11AM (428 Evans Hall).
++ [Sequoia Andrade](mailto:srandrade@berkeley.edu)
+    - Labs: Friday 3PM-5PM (342 Evans Hall).
+    - Office Hours: Tuesdays 1PM-2PM (428 Evans Hall).
 
 ### Communication
 
-Please use the [course Ed](https://edstem.org/us/courses/35870/discussion/) for questions about course material and logistics.
+Please use the course Ed (**insert new link**) for questions about course material and logistics.
 For personal matters (illness, accommodations, etc.) that should remain private, please make a private Piazza post that only the instructor and GSI will see. You may obviously email one of us privately if you need, but in general we'll be able to more efficiently handle class communications if they stay on Piazza.
 
 During the work week, we expect to be able to reply to Piazza messages and email within 24 hours. On weekends, we might need longer.
@@ -61,7 +63,7 @@ In case of medical exception, submit on Ed a private note to the instructors wit
  - We will accept late homework assignments until 24hrs after the deadline of the homework. However, in those cases a 25% penalty will be applied to the final score. 
  - For group homework projects, you will include a statement in your repository acknowledging the contribution of each team member. Unless there is a major, unfair imbalance in the amount of work done by each team member, the same grade will be assigned to all team members.
  - _Submitting assignments:_ Submit written assignments by making a pull request
-to your private repository within the Berkeley [GitHub organization for the class](https://github.berkeley.edu/stat-159-s23), using the [GitHub Classroom](https://classroom.github.com/classrooms/106109551-ucb-stat-159-s23-classroom) (you will practice all this, don't worry).
+to your private repository within the Berkeley [GitHub organization for the class](https://github.berkeley.edu/stat-159-f25), using the [GitHub Classroom](https://classroom.github.com/classrooms/224172006-ucb-stat-159-f25-classroom) (you will practice all this, don't worry).
 
 
 #### Reading assignments 
