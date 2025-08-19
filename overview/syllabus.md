@@ -5,7 +5,7 @@
 
 ## Textbook
 
-While not strictly a textbook for this course, we will rely heavily on the excellent, openly licensed: [Research software engineering in Python](https://merely-useful.tech/py-rse). More resources are listed in the [course overview page](#overview).
+While not strictly a textbook for this course, we will rely heavily on the excellent, openly licensed: [Research software engineering in Python](https://third-bit.com/py-rse/). More resources are listed in the [course references page](./references.md).
 
 ## Administrativia
 
