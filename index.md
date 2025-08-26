@@ -47,11 +47,11 @@ _Note:_ This course is inspired by, and based on, previous editions taught by my
 
 ## Key Resources
 
-+ Communication: class Ed forum **insert new Ed link**.
++ Communication: [Ed Discussion](https://edstem.org/us/courses/84806/discussion) forum.
 
 + Lectures will be recorded and posted in the Kaltura system (visible via bCourses), but attendance is mandatory. (Much of the pedagogical value of the class is in participating in discussions and code reviews).
 
-+ Course readings that are not easy to find free on the web or through the UC Berkeley Library will be posted to bCourses.
++ Course readings that are not easy to find free on the web or through the UC Berkeley Library will be posted to [bCourses](https://bcourses.berkeley.edu/).
 
 + Computing resources
     - We will use Jupyter notebooks. We will start with hosted notebooks on our [Stat 159 JupyterHub](https://stat159.datahub.berkeley.edu). Later in the term, we will discuss installing Jupyter on your own device. The JupyterHub server will have all the packages you need pre-installed.
