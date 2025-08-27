@@ -23,7 +23,7 @@ will be provided, but not all topics required to do the homework will be covered
 ### Format and assessment
 + 3 hours of lecture and 2 hours of lab per week 
     - lectures will focus on theory, philosophy of science, foundations of statistics, scientific applications, software engineering, code reviews and group discussion.
-    - lab will focus on computing, software tools, workflow, and collaboration
+    - lab will focus on computing, software tools, workflow, and collaboration; a short and easy quiz on that lab's material will occur each session.
 
 For each assigned reading, you will submit a brief, 1 paragraph report before lecture (**Due date TBD**). The first paragraph should summarize the reading. The second paragraph should briefly explore something that interested you (e.g., you may wish to focus on one aspect of the paper in more depth, you may wish to discuss something in the reading that you disagree with). During lecture, we will draw upon your reports for some group discussion.
 
