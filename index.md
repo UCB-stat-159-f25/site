@@ -22,7 +22,7 @@ to group projects.
 There will not be a midterm or final exam, but there will be a videorecorded
 final presentation of group work.
 
-_Note:_ This course is inspired by, and based on, previous editions taught by myself as well as Professor Philip Stark, from UC Berkeley's Statistics Department.
+_Note:_ This course is inspired by, and based on, previous editions taught by myself as well as Professor Philip Stark, from UC Berkeley's Statistics Department. Much of the content and structure of the course was developed by [Facu Sapienza](https://statistics.berkeley.edu/people/facu-sapienza).
 
 **Course Objectives:** At the completion of this course, students will:
 
