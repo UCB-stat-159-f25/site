@@ -3,7 +3,8 @@ project:
   title: Collaborative and Reproducible Data Science
   authors:
     - name: Fernando Pérez
-    - name: Facundo Sapienza
+    - name: Jimmy Butler
+    - name: Sequoia Andrade
   copyright: '2023'
   github: UCB-stat-159-f25/site
   thebe:
