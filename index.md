@@ -16,8 +16,7 @@ We will rely on the Scientific Python and Jupyter ecosystems, but the core ideas
 
 Consistent class participation is crucial: we will be discussing subtle substantive, technical, and philosophical issues and reviewing code during class. Even though we plan to record the lectures, if you cannot attend the lectures synchronously, please do *not* take the course.
 
-There will be roughly eight homeworks/projects, some individual and some collaborative in groups of 3-4.
-You will be asked to review your own contributions and each others contributions
+There will be roughly 6-7 homeworks and 3 projects. The homeworks are to be completed individually, and projects will be collaborative in groups of 3-4. You will be asked to review your own contributions and each others contributions
 to group projects.
 There will not be a midterm or final exam, but there will be a videorecorded
 final presentation of group work.
