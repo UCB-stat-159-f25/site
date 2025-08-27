@@ -56,7 +56,7 @@ _Note:_ This course is inspired by, and based on, previous editions taught by my
 + Computing resources
     - We will use Jupyter notebooks. We will start with hosted notebooks on our [Stat 159 JupyterHub](https://stat159.datahub.berkeley.edu). Later in the term, we will discuss installing Jupyter on your own device. The JupyterHub server will have all the packages you need pre-installed.
     - The sources for class notes and most other materials are available [on github](https://github.com/UCB-stat-159-f25/site), with a rendered version [here](https://ucb-stat-159-f25.github.io/site).
-    - Assignments should be submitted by pull request to your private repositories using the GitHub Classroom **insert new link**.
+    - Assignments should be submitted by pull request to your private repositories using the GitHub Classroom.
     - Whenever you need to work with GitHub, remember to activate GitHub authentication from the JupyterHub. The most convenient way to do this is to keep a notebook with just one cell like this:
     
 ```python
