@@ -25,7 +25,7 @@ will be provided, but not all topics required to do the homework will be covered
     - lectures will focus on theory, philosophy of science, foundations of statistics, scientific applications, software engineering, code reviews and group discussion.
     - lab will focus on computing, software tools, workflow, and collaboration; a short and easy quiz on that lab's material will occur each session.
 
-For each assigned reading, you will submit a brief, 1 paragraph report before lecture (**Due date TBD**). The paragraph should briefly explore something that interested you (e.g., you may wish to focus on one aspect of the paper in more depth, you may wish to discuss something in the reading that you disagree with). During lecture, we will draw upon your reports for some group discussion.
+For each assigned reading, you will submit a brief, 1 paragraph of thoughts and impressions due on **Friday at 11:59PM**. The paragraph should briefly explore something that interested you (e.g., you may wish to focus on one aspect of the paper in more depth, you may wish to discuss something in the reading that you disagree with). During lecture, we will draw upon your reports for some group discussion.
 
 ### Office hours
 + Perez: Monday, 10-11AM, 419 Evans Hall. I will normally also keep an open [Zoom session](https://berkeley.zoom.us/j/91957788039?pwd=WE5UMGdUWGp0bFVUUXFFSS9DblhEUT09Meeting) for those needing to join remotely for Covid or other reasons.
@@ -74,7 +74,7 @@ to your private repository within the Berkeley [GitHub organization for the clas
 
  - These will be posted on the course website under Assigned Readings. For each paper/reading in the weekly list, you should submit a paragraph highlighting your ideas and thoughts. You will submit your reading assignments in bCourses.
 
- - Reading assignments will be due every Wednesday at 9pm (Exception: the first one will be due _Thursday Jan 26_). No later reading assignments will be accepted unless there is a medical exception. In that case, you will need to submit in Ed a private note to the instructors with a medical proof showing that you are unable to complete the assignment. (due date?)
+ - Reading assignments will be due every Friday at 11:59pm. No later reading assignments will be accepted unless there is a medical exception. In that case, you will need to submit in Ed a private note to the instructors with a medical proof showing that you are unable to complete the assignment.
 
 - You can drop two readings without need of justification. Notice that this applies to INDIVIDUAL readings. For example, if the weekly reading consists of 4 papers, you can drop a maximum of two of them. If you drop two readings in one week, you cannot drop any other one without penalty. 
 
@@ -83,7 +83,8 @@ to your private repository within the Berkeley [GitHub organization for the clas
 #### Lab Quizzes
  - In each lab, there will be a very short online quiz on that day's lab material.
  - The quiz question(s) will be based on that day's lab session and is meant to be very easily completed if you attended.
- - (Drop policy?)
+ - You will be allowed to drop 2 of your lab quizzes for the semester, no questions asked. This is to give you some flexibility if you need to miss lab due to illness, travel, etc. If you need to miss multiple labs due to extenuating circumstances, please contact your lab TA. They will grant exceptions/extra drops according to their discretion.
+ - Given course roster uncertainties in the first few weeks of any course, the first two lab quizzes will not be graded. Quizzes from Week 3 and onward will count towards the grade.
 
 #### Projects (Project 1, Project 2, Final)
  - There will be a few projects throughout the semester, culminating in a final project where you will combine all of the tools and techniques you've been learning this semester into a single body of work. All projects will be completed in groups, which will be assigned at a later point.
