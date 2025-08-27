@@ -10,7 +10,7 @@ You can drop two readings without need of justification. Notice that this applie
 
 Each reading assignment gives 1 point. The final points for the reading assignments is the sum of all the readings. Notice that this means that the maximum credit you can obtain per week depends on the number of readings that week.
     
-Future reading assignments
+A running list of the semester's reading assignments will be given below
 
 
 * Foundational classics
