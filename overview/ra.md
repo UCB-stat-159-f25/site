@@ -2,7 +2,7 @@
 
 Every week, each student is asked to read and discuss a series of reading assignments. The topics of the reading assignments include reproducibitity in science, open source practices, and applications to climate science, among others. 
 
-You have to submit one paragraph per each separate article that highlights an important idea in the reading. This can be something that caught your attention and you would like to expand on a little bit more. You are more than welcome to orient this into something related to your own research or area of interest. A good length for each one of the paragraphs is between 80 and 120 words.
+You have to submit one paragraph per each separate article that highlights an important idea in the reading. This can be something that caught your attention and you would like to expand on a little bit more. You are more than welcome to orient this into something related to your own research or area of interest. A good length is between 80 and 120 words.
 
 You will submit your reading assignments in bCourses. Reading assignments will be due (**TBD**). No late reading assignments will be accepted unless there is a medical situation or other documented major emergency. In that case, you will need to submit in Ed a private note to the instructors with supporting evidence showing that you are unable to complete the assignment. 
 
