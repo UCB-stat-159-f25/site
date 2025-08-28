@@ -24,8 +24,8 @@ project:
         - file: overview/references.md
     - title: Lectures
       children:
-#        - file: lectures/intro-git/intro.ipynb
-#          children:
+        - file: lectures/intro-git/intro.ipynb
+          children:
 #            - file: lectures/intro-git/configuration.ipynb
 #            - file: lectures/intro-git/local.ipynb
 #            - file: lectures/intro-git/branch.ipynb
