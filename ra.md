@@ -4,7 +4,7 @@ Every week, each student is asked to read and discuss a series of reading assign
 
 You have to submit one paragraph per each separate article that highlights an important idea in the reading. This can be something that caught your attention and you would like to expand on a little bit more. You are more than welcome to orient this into something related to your own research or area of interest. A good length is between 80 and 120 words.
 
-You will submit your reading assignments in bCourses. Reading assignments will be due on **Fridays at 11:59PM**, starting on Friday, September 5. No late reading assignments will be accepted unless there is a medical situation or other documented major emergency. In that case, you will need to submit in Ed a private note to the instructors with supporting evidence showing that you are unable to complete the assignment. 
+You will submit your reading assignments in bCourses. Reading assignments will be due on **Fridays at 11:59PM**, with the exception of our first readings, which will be due on **Monday, September 8 at 11:59PM**. No late reading assignments will be accepted unless there is a medical situation or other documented major emergency. In that case, you will need to submit in Ed a private note to the instructors with supporting evidence showing that you are unable to complete the assignment. 
 
 You can drop two readings, no questions asked. Notice that this applies to INDIVIDUAL readings. For example, if the weekly reading consists of 4 papers, you can drop a maximum of two of them. If you drop two readings in one week, you cannot drop any other one without penalty. 
 
