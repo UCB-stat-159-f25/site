@@ -20,8 +20,6 @@ project:
       children:
         - file: overview/schedule.md
         - file: overview/syllabus.md
-        - file: overview/homework.md
-        - file: overview/ra.md
         - file: overview/references.md
     - title: Lectures
       children:
@@ -75,6 +73,8 @@ project:
 #        - file: lab/lab06/lab06.ipynb
 #        - file: lab/lab07/lab07.ipynb
 #        - file: lab/lab08/lab08.ipynb
+    - file: homework.md
+    - file: ra.md
     - title: Appendix
       children:
         - file: appendix/local-installation.ipynb

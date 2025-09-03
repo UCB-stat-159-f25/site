@@ -1,4 +1,4 @@
-# Reading Assignments
+# Readings
 
 Every week, each student is asked to read and discuss a series of reading assignments. The topics of the reading assignments include reproducibitity in science, open source practices, and applications to climate science, among others. 
 
@@ -12,13 +12,7 @@ Each reading assignment is worth 1 point. The final points for the reading assig
     
 A running list of the semester's reading assignments will be provided below and updated throughout the semester.
 
-
-* Foundational classics
-    - [Schwab, M., Karrenbach, N., Claerbout, J. (2000) Making scientific computations reproducible, Comp. Sci. Eng. 2(6):61–67, doi: 10.1109/5992.881708](https://ieeexplore.ieee.org/document/881708).
-    - [Reproducible Research, by the Yale Law School Roundtable on Data and Code Sharing, Comp. Sci. Eng. 12(5): 8–13 (Sept.-Oct. 2010), doi:10.1109/mcse.2010.113](https://ieeexplore.ieee.org/document/5562471).
-
-
-* Earth and climate science
-    - [Hoffimann et al. 2021, Geostatistical Learning: Challenges and Opportunities](https://arxiv.org/abs/2102.08791)
-    - [Geyer et al. 2021, Limits of reproducibility and hydrodynamic noise in atmospheric regional modelling](https://www.nature.com/articles/s43247-020-00085-4).
-
++ **Week 3**: Due *Monday, September 8 at 11:59PM*
+    - [Duke Clinical Trials - 60 Minutes (2012)](https://www.youtube.com/watch?v=W5sZTNPMQRM&ab_channel=HensonFuerst)
+    - [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=8QJfNS7XXwA&ab_channel=UWVideo)
+    - Note: These are videos, not readings. Since the 60 Minutes video is quite short and gives context, **you will only need to submit one paragraph for this week's assignment** (usually, you'd have to do one per reading/video). Also, this week's assignment is due on a Monday, but for the remainder of the semester, reading assignments will usually be due on Fridays.
