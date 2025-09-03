@@ -65,6 +65,7 @@ project:
 #        - file: lectures/matplotlib_beyond_basics.ipynb
     - title: Labs
       children:
+        - file: lab/intro/intro.ipynb
         - file: lab/lab00/lab00.ipynb
 #        - file: lab/lab01/lab01.ipynb
 #        - file: lab/lab02/lab02.ipynb
