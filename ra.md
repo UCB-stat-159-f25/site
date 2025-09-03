@@ -14,5 +14,5 @@ A running list of the semester's reading assignments will be provided below and 
 
 + **Week 3**: Due *Monday, September 8 at 11:59PM*
     - [Duke Clinical Trials - 60 Minutes (2012)](https://www.youtube.com/watch?v=W5sZTNPMQRM&ab_channel=HensonFuerst)
-    - [The Importance of Reproducible Research in High-Throughput Biology](https://www.youtube.com/watch?v=8QJfNS7XXwA&ab_channel=UWVideo)
+    - [The Importance of Reproducible Research in High-Throughput Biology - Keith Baggerly (2018)](https://www.youtube.com/watch?v=8QJfNS7XXwA&ab_channel=UWVideo)
     - Note: These are videos, not readings. Since the 60 Minutes video is quite short and gives context, **you will only need to submit one paragraph for this week's assignment** (usually, you'd have to do one per reading/video). Also, this week's assignment is due on a Monday, but for the remainder of the semester, reading assignments will usually be due on Fridays.
