@@ -5,6 +5,7 @@ project:
     - name: Fernando Pérez
     - name: Jimmy Butler
     - name: Sequoia Andrade
+    - name: Facundo Sapienza (2023 edition)
   copyright: '2023'
   github: UCB-stat-159-f25/site
   thebe:
@@ -26,12 +27,13 @@ project:
       children:
         - file: lectures/intro-git/intro.ipynb
           children:
-#            - file: lectures/intro-git/configuration.ipynb
-#            - file: lectures/intro-git/local.ipynb
-#            - file: lectures/intro-git/branch.ipynb
-#            - file: lectures/intro-git/remote.ipynb
-#            - file: lectures/intro-git/conflict.ipynb
-#            - file: lectures/intro-git/git-visuals.ipynb
+           - file: lectures/intro-git/configuration.ipynb
+           - file: lectures/intro-git/GHAUTH.ipynb
+           - file: lectures/intro-git/local.ipynb
+           - file: lectures/intro-git/branch.ipynb
+           - file: lectures/intro-git/remote.ipynb
+           - file: lectures/intro-git/conflict.ipynb
+           - file: lectures/intro-git/git-visuals.ipynb
 #        - file: lectures/collaboration/index.ipynb
 #          children:
 #            - file: lectures/collaboration/github-workflow.ipynb
