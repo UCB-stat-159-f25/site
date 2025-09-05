@@ -1,6 +1,6 @@
 # Textbook and Supporting Materials
 
-While not strictly a textbook for this course, we will rely heavily on the excellent, openly licensed: [Research software engineering in Python](https://merely-useful.tech/py-rse).  We will complement it with these other scientific python resources:
+While not strictly a textbook for this course, we will rely heavily on the excellent, openly licensed: [Research software engineering in Python](https://alan-turing-institute.github.io/rse-course/html/index.html).  We will complement it with these other scientific python resources:
 
 + Katy Huff's - [Effective Computation in Physics](http://physics.codes/).
 
