@@ -32,17 +32,17 @@ project:
            - file: lectures/intro-git/remote.ipynb
            - file: lectures/intro-git/conflict.ipynb
            - file: lectures/intro-git/git-visuals.ipynb
+       - file: lectures/intro-jupyter/Index.ipynb
+         children:
+           - file: lectures/intro-jupyter/01-Intro-Jupyter.ipynb
+           - file: lectures/intro-jupyter/02-Beyond-Plain-Python.ipynb
+           - file: lectures/intro-jupyter/03-Custom-Display-Logic.ipynb
+           - file: lectures/intro-jupyter/04-Rich-Output.ipynb
+           - file: lectures/intro-jupyter/05-widgets-interact.ipynb
 #        - file: lectures/collaboration/index.ipynb
 #          children:
 #            - file: lectures/collaboration/github-workflow.ipynb
 #            - file: lectures/collaboration/rtc.ipynb
-#        - file: lectures/intro-jupyter/Index.ipynb
-#          children:
-#            - file: lectures/intro-jupyter/01-Intro-Jupyter.ipynb
-#            - file: lectures/intro-jupyter/02-Beyond-Plain-Python.ipynb
-#            - file: lectures/intro-jupyter/03-Custom-Display-Logic.ipynb
-#            - file: lectures/intro-jupyter/04-Rich-Output.ipynb
-#            - file: lectures/intro-jupyter/05-widgets-interact.ipynb
 #        - file: lectures/modularity/modularity.ipynb
 #        - file: lectures/packaging/packaging.ipynb
 #        - file: lectures/environments/environments.ipynb
