@@ -16,4 +16,4 @@ A running list of homework assignments, along with due dates, will be provided b
 + **Homework 1**: *(40 points)*
     - Reproducibility check-up on an existing paper
     - To access the assignment, find the HW1 assignment on bCourses, and click the provided GitHub classroom link.
-    - **Due: September, 18 at 11:59 PT**
+    - **Due: September, 18 at 11:59PM PT**
