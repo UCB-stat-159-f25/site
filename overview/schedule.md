@@ -12,6 +12,15 @@ Note that all lecture videos are posted on the [bCourses "Lectures" playlist for
 4. September 17: Data Visualization - Guest Lecture by [Sam Pottinger](https://dse.berkeley.edu/people/sam-pottinger). Amazing!
 ...
 
+## Lab Content
+
+All the labs for the course can be found in the navitation bar on the left. Useful information about how to setup the labs in your JupyterHub sesssion can be found in the [introduction page](../lab/intro/intro.ipynb).
+
+* August 29: Lab 00 - Intro Python and setup.
+* September 5: Lab 01 - GitHub Classroom, Unix
+* September 12: Lab 02 - Git, GitHub, Jupyter
+...
+
 ## What does a generic week look like?
 
 Below shows a table of what a usual week will look like in this course, including assignment deadlines and course happenings. Note that this will generally be the structure for each week, but there may be some exceptions. When there are exceptions, announcements will be made well in-advance. Note: HW will generally be due biweekly, with peer code reviews due one week after the corresponding HW was due. So, for example, on Thursdays, either a HW or code review will be due, depending on whether a HW or code review was due last week.
@@ -41,10 +50,3 @@ Below shows a table of what a usual week will look like in this course, includin
     - If HW *X* due, release HW *X+1*.
     - Release Reading Assignment *Y+1*
 :::
-
-## Live links for labs on the Berkeley DataHub
-
-All the labs for the course can be found in the navitation bar on the left. Useful information about how to setup the labs in your JupyterHub sesssion can be found in the [introduction page](../lab/intro/intro.ipynb).
-
-* August 29: Lab 00 - Intro Python and setup.
-...
