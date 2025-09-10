@@ -1,5 +1,6 @@
 # Weekly Plan
 
+## Lecture Content
 
 Below is our current plan for the course for the first few lectures. This list will be periodically updated with new content. **This is not a contract:** it is a _plan_, and it may change substantially as the semester unfolds.
 
@@ -10,6 +11,36 @@ Note that all lecture videos are posted on the [bCourses "Lectures" playlist for
 3. September 10: [Jupyter in action](../lectures/intro-jupyter/Index.ipynb)
 4. September 17: Data Visualization - Guest Lecture by [Sam Pottinger](https://dse.berkeley.edu/people/sam-pottinger). Amazing!
 ...
+
+## What does a generic week look like?
+
+Below shows a table of what a usual week will look like in this course, including assignment deadlines and course happenings. Note that this will generally be the structure for each week, but there may be some exceptions. When there are exceptions, announcements will be made well in-advance.
+
+:::{list-table} 
+:widths: 10 10 10 10 10
+:header-rows: 1
+
+*   - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+    - Friday
+*   - *Prof. Perez OH*
+    - *Sequoia OH*
+    - *Lecture*, *Jimmy OH*
+    - *Jimmy OH*
+    - *Lab*
+*   - 
+    - 
+    - 
+    - **HW *X* or Code Review *X* due (11:59PM PT)**
+    - **Reading Assignment *Y* due (11:59PM PT)**
+*   - 
+    - 
+    - 
+    - If HW *X* due, release HW *X+1*.
+    - Release Reading Assignment *Y+1*
+:::
 
 ## Live links for labs on the Berkeley DataHub
 
