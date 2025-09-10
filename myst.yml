@@ -32,8 +32,8 @@ project:
            - file: lectures/intro-git/remote.ipynb
            - file: lectures/intro-git/conflict.ipynb
            - file: lectures/intro-git/git-visuals.ipynb
-       - file: lectures/intro-jupyter/Index.ipynb
-         children:
+        - file: lectures/intro-jupyter/Index.ipynb
+          children:
            - file: lectures/intro-jupyter/01-Intro-Jupyter.ipynb
            - file: lectures/intro-jupyter/02-Beyond-Plain-Python.ipynb
            - file: lectures/intro-jupyter/03-Custom-Display-Logic.ipynb
