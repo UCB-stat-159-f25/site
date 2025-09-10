@@ -14,7 +14,7 @@ Note that all lecture videos are posted on the [bCourses "Lectures" playlist for
 
 ## What does a generic week look like?
 
-Below shows a table of what a usual week will look like in this course, including assignment deadlines and course happenings. Note that this will generally be the structure for each week, but there may be some exceptions. When there are exceptions, announcements will be made well in-advance.
+Below shows a table of what a usual week will look like in this course, including assignment deadlines and course happenings. Note that this will generally be the structure for each week, but there may be some exceptions. When there are exceptions, announcements will be made well in-advance. Note: HW will generally be due biweekly, with peer code reviews due one week after the corresponding HW was due. So, for example, on Thursdays, either a HW or code review will be due, depending on whether a HW or code review was due last week.
 
 :::{list-table} 
 :widths: 10 10 10 10 10
