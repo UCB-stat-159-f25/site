@@ -23,4 +23,10 @@ A running list of the semester's reading assignments will be provided below and 
     - [Gun Deaths](https://guns.periscopic.com/)
     - [Food Sim SF](https://foodsimsf.com/)
     - Note: For this week, you will need to review the above materials, and for each one, write 2-3 sentences answering the following questions: what is visualized? how is it visualized? how do you feel having seen the visualization? *Minor content warnings: gun deaths, brief mention of self harm*
+
++ **Week 5**: Due *Friday, September 17 at 11:59PM*
+    - [Jupyter: Thinking and Storytelling With Code and Data](https://ieeexplore.ieee.org/document/9387490)
+    - [Using Jupyter for Reproducible Scientific Workflows](https://ieeexplore.ieee.org/document/9325550)
+    - [Jupyter in Computational Science](https://ieeexplore.ieee.org/document/9387474?denied=)
+    - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)                                     
     
