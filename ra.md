@@ -12,19 +12,19 @@ Each reading assignment is worth 1 point. The final points for the reading assig
     
 A running list of the semester's reading assignments will be provided below and updated throughout the semester.
 
-+ **Week 3**: Due *Monday, September 8 at 11:59PM*
++ **Week 3**: Due *Monday, September 8 at 11:59PM PT*
     - [Duke Clinical Trials - 60 Minutes (2012)](https://www.youtube.com/watch?v=W5sZTNPMQRM&ab_channel=HensonFuerst)
     - [The Importance of Reproducible Research in High-Throughput Biology - Keith Baggerly (2018)](https://www.youtube.com/watch?v=8QJfNS7XXwA&ab_channel=UWVideo)
     - Note: These are videos, not readings. Since the 60 Minutes video is quite short and gives context, **you will only need to submit one paragraph for this week's assignment** (usually, you'd have to do one per reading/video). Also, this week's assignment is due on a Monday, but for the remainder of the semester, reading assignments will usually be due on Fridays.
 
-+ **Week 4**: Due *Friday, September 12 at 11:59PM*
++ **Week 4**: Due *Friday, September 12 at 11:59PM PT*
     - [We Feel Fine (recommend 2:40 to 8:04)](https://www.ted.com/talks/jonathan_harris_the_web_s_secret_stories/details%20.)
     - [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=25.8.0)
     - [Gun Deaths](https://guns.periscopic.com/)
     - [Food Sim SF](https://foodsimsf.com/)
     - Note: For this week, you will need to review the above materials, and for each one, write 2-3 sentences answering the following questions: what is visualized? how is it visualized? how do you feel having seen the visualization? *Minor content warnings: gun deaths, brief mention of self harm*
 
-+ **Week 5**: Due *Friday, September 17 at 11:59PM*
++ **Week 5**: Due *Friday, September 19 at 11:59PM PT*
     - [Jupyter: Thinking and Storytelling With Code and Data](https://ieeexplore.ieee.org/document/9387490)
     - [Using Jupyter for Reproducible Scientific Workflows](https://ieeexplore.ieee.org/document/9325550)
     - [Jupyter in Computational Science](https://ieeexplore.ieee.org/document/9387474?denied=)
