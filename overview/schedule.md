@@ -6,10 +6,12 @@ Below is our current plan for the course for the first few lectures. This list w
 
 Note that all lecture videos are posted on the [bCourses "Lectures" playlist for the course](https://bcourses.berkeley.edu/courses/1546508/external_tools/90481) (this link is accessible only to Berkeley personnel).
 
+Not all lectures will have slides associated with them, but for those that do, you can find them all in this [shared google folder](https://drive.google.com/drive/u/1/folders/1u58VESS6yFibuYw7-1v3-ZI5R0pk8h7o). Links to individual weeks are provided below.
+
 1. August 27: Logistics, conceptual overview of open science and open source. [Slides](https://docs.google.com/presentation/d/1tbgKqY2tW-lZsnA1AvwX5azwL4JV2K9F-nFn65CBP5I/edit)
 2. September 3:  [Intro to Git, GitHub](../lectures/intro-git/intro.ipynb)
 3. September 10: [Jupyter in action](../lectures/intro-jupyter/Index.ipynb)
-4. September 17: Data Visualization - Guest Lecture by [Sam Pottinger](https://dse.berkeley.edu/people/sam-pottinger). Amazing!
+4. September 17: Data Visualization - Guest Lecture by [Sam Pottinger from Berkeley DSE](https://dse.berkeley.edu/people/sam-pottinger). [Slides](https://drive.google.com/drive/u/1/folders/1u58VESS6yFibuYw7-1v3-ZI5R0pk8h7o).
 ...
 
 ## Lab Content
