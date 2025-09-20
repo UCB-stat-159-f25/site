@@ -29,4 +29,8 @@ A running list of the semester's reading assignments will be provided below and 
     - [Using Jupyter for Reproducible Scientific Workflows](https://ieeexplore.ieee.org/document/9325550)
     - [Jupyter in Computational Science](https://ieeexplore.ieee.org/document/9387474?denied=)
     - [Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007007)                                     
-    
+
++ **Week 6**: Due *Friday, September 26 at 11:59PM PT*
+    - [Terminologies for Reproducible Research](https://arxiv.org/abs/1802.03311)
+    - Reinhart and Rogoff Controversy. [The Reinhart-Rogoff error – or how not to Excel at economics](https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646) and the [companion critique](https://peri.umass.edu/wp-content/uploads/joomla/images/WP322.pdf)
+    - Note: For the Reinhart and Rogoff controversy readings, you only need to submit one paragraph covering both readings.    
