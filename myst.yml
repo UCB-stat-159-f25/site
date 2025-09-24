@@ -39,6 +39,12 @@ project:
            - file: lectures/intro-jupyter/03-Custom-Display-Logic.ipynb
            - file: lectures/intro-jupyter/04-Rich-Output.ipynb
            - file: lectures/intro-jupyter/05-widgets-interact.ipynb
+        - file: lectures/testing/index.ipynb
+          children:
+           - file: lectures/testing/simple-numerical-chaos.ipynb
+           - file: lectures/testing/building-blocks.ipynb
+           - file: lectures/testing/simple-tests.ipynb
+           #- file: lectures/testing/workflow.ipynb
 #        - file: lectures/collaboration/index.ipynb
 #          children:
 #            - file: lectures/collaboration/github-workflow.ipynb
@@ -46,10 +52,6 @@ project:
 #        - file: lectures/modularity/modularity.ipynb
 #        - file: lectures/packaging/packaging.ipynb
 #        - file: lectures/environments/environments.ipynb
-#        - file: lectures/testing/index.ipynb
-#          children:
-#            - file: lectures/testing/building-blocks.ipynb
-#            - file: lectures/testing/workflow.ipynb
 #        - file: lectures/climate-xarray/index.ipynb
 #          children:
 #            - file: lectures/climate-xarray/climate-data.ipynb
