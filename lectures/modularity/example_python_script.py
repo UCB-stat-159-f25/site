@@ -4,7 +4,7 @@ from scipy import stats
 import pandas as pd
 
 
-def sample_normal_dist(mu: float, sigma: float, n: int, plot=True):
+def sample_normal_dist_module(mu: float, sigma: float, n: int, plot=True):
     """
     Samples from a normal distribution with given parameters with 
     the option to plot
@@ -37,4 +37,4 @@ if __name__ == "__main__":
     mu = 0
     sigma = 1
     n = 1000
-    sample_normal_dist(mu, sigma, n)
+    sample_normal_dist_module(mu, sigma, n)
