@@ -52,8 +52,8 @@ project:
         - file: lectures/modularity/index.ipynb
           children:
            - file: lectures/modularity/01-code-preferences.ipynb
-           - file: lectures/testing/02-code-types.ipynb
-           - file: lectures/testing/03-modularity.ipynb
+           - file: lectures/modularity/02-code-types.ipynb
+           - file: lectures/modularity/03-modularity.ipynb
 #        - file: lectures/packaging/packaging.ipynb
 #        - file: lectures/environments/environments.ipynb
 #        - file: lectures/climate-xarray/index.ipynb
