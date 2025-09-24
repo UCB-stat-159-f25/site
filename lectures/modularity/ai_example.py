@@ -1,3 +1,10 @@
+"""
+Gemini 2.5 prompt: 
+make me a function that samples from a normal distribution 
+and plots the data in a histogram and prints a dataframe 
+of the mean and standard deviation
+"""
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
