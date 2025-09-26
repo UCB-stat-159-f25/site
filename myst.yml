@@ -82,16 +82,16 @@ project:
 #        - file: lab/lab08/lab08.ipynb
     - title: Homework
     - file: homework/general_info/general_hw_info.md
-        children:
+    children:
         - title: Homework 0
-            children:
+        children:
             - file: homework/hw00/hw00.md
         - title: Homework 1 + Peer Review
-            children:
+        children:
             - file: homework/hw01/hw01-description.md
             - file: homework/hw01/hw01-review-description.ipynb
         - title: Homework 2
-            children:
+        children:
             -file: homework/hw02/hw02-description.md
     - file: ra.md
     - title: Appendix
