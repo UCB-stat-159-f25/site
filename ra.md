@@ -34,3 +34,9 @@ A running list of the semester's reading assignments will be provided below and 
     - [Terminologies for Reproducible Research](https://arxiv.org/abs/1802.03311)
     - Reinhart and Rogoff Controversy. [The Reinhart-Rogoff error – or how not to Excel at economics](https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646) and the [companion critique](https://peri.umass.edu/wp-content/uploads/joomla/images/WP322.pdf)
     - Note: For the Reinhart and Rogoff controversy readings, you only need to submit one paragraph covering both readings.    
+
++ **Week 7**: Due *Friday, October 3 at 11:59PM PT*
+    - [Satellite sea surface temperatures along the West Coast of the United States during the 2014–2016 northeast Pacific marine heat wave](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL071039)
+    - [Science Storms the Cloud](https://essopenarchive.org/doi/full/10.1002/essoar.10506344.2)
+    - [Open Source Science: A Conversation with Leaders at NASA and UC Berkeley](https://www.youtube.com/watch?v=4GMNJkq027Q)
+    - Note: For the first paper, start thinking about reproducibility issues as you read it. The lead author, [Dr. Chelle Gentemann](https://cgentemann.github.io/), will be our guest lecturer on March 6th, and she will discuss aspects of this work. Later we will follow up with an assignment on the reproducibility aspects of this paper. For the last item (the panel video), we are asking you to comment on the discussion.
