@@ -50,6 +50,10 @@ project:
            - file: lectures/testing/building-blocks.ipynb
            - file: lectures/testing/simple-tests.ipynb
         - file: lectures/environments/environments.ipynb
+        - file: lectures/climate-xarray/index.ipynb
+          children:
+            - file: lectures/climate-xarray/climate-data.ipynb
+            - file: lectures/climate-xarray/xarray.ipynb
            #- file: lectures/testing/workflow.ipynb
 #        - file: lectures/collaboration/index.ipynb
 #          children:
@@ -57,10 +61,6 @@ project:
 #            - file: lectures/collaboration/rtc.ipynb
         
 #        - file: lectures/packaging/packaging.ipynb
-#        - file: lectures/climate-xarray/index.ipynb
-#          children:
-#            - file: lectures/climate-xarray/climate-data.ipynb
-#            - file: lectures/climate-xarray/xarray.ipynb
 #        - file: lectures/serialization/data-serialization.ipynb
 #        - file: lectures/documentation/index.ipynb
 #          children:
