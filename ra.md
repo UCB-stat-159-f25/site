@@ -40,3 +40,7 @@ A running list of the semester's reading assignments will be provided below and 
     - [Science Storms the Cloud](https://essopenarchive.org/doi/full/10.1002/essoar.10506344.2)
     - [Open Source Science: A Conversation with Leaders at NASA and UC Berkeley](https://www.youtube.com/watch?v=4GMNJkq027Q)
     - Note: For the first paper, start thinking about reproducibility issues as you read it. The lead author, [Dr. Chelle Gentemann](https://cgentemann.github.io/), will be our guest lecturer on March 6th, and she will discuss aspects of this work. Later we will follow up with an assignment on the reproducibility aspects of this paper. For the last item (the panel video), we are asking you to comment on the discussion.
+
++ **Week 8**: Due *Friday, October 10 at 11:59PM PT*
+    - [Reproducible and Replicable Computational Fluid Dynamics: It’s Harder Than You Think](https://ieeexplore.ieee.org/document/8012284)
+    - [The Limits of Reproducibility in Numerical Simulation](https://ieeexplore-ieee-org.libproxy.berkeley.edu/document/5719578)
