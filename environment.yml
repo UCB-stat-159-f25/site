@@ -111,6 +111,7 @@ dependencies:
   - markdown-it-py==2.2.0
   - markupsafe==2.1.2
   - myst-nb==0.17.1
+  - libwebp==1.5.0
 
   # Packages that could be installed via the system package manager
   # (apt, homebrew, etc) but we bring them through here for better
