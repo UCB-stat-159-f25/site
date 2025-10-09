@@ -1,3 +1,4 @@
+# THIS IS AN OLD SITE AND WILL NO LONGER BE UPDATED, NEW SITE AT https://stat159.berkeley.edu/fall-2025/
 # Collaborative and Reproducible Data Science - Fall 2025
 ## Statistics 159/259 Course Summary
 
